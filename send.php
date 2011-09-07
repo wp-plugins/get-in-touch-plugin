@@ -39,5 +39,3 @@ if (isset($_GET['debug']))
 	echo nl2br($body) ;
 }
 ?>
-
-
