@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: ebreeze 
+Contributors: Flat Rock Technology, ebreeze 
 Donate link: http://www.flatrocktech.com/
 Tags: feedback, contact, widget, address details
 Requires at least: 2.8.0
